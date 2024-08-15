@@ -1,13 +1,23 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+.bg-main {
+    background-image: url('D:/Dev/App/New folder/elga4/public/assets/img/img-main.svg');
+  }
+
+.bg-main1 {
+    background-image: url('D:/Dev/App/New folder/elga4/public/assets/img/img-1-it-manage.svg');
+  }
+.bg-main2 {
+    background-image: url('D:/Dev/App/New folder/elga4/public/assets/img/img-2-it-consulting.svg');
+  }
+
+.bg-main3 {
+    background-image: url('D:/Dev/App/New folder/elga4/public/assets/img/img-3-dedicated-internet.svg');
+  }
+
+.bg-main4 {
+    background-image: url('D:/Dev/App/New folder/elga4/public/assets/img/img-main2.svg');
+    opacity: 0.3;
+  }
