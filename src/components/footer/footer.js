@@ -61,7 +61,7 @@ function Footer() {
               Medco Building III 3rd Floor <br />
               Jl. Ampera Raya No. 18-20 12560 Jakarta - Indonesia
               <br />
-              +62 21 782 1962 | info@elga.net.id
+              +62 21 782 1962 | info[at]elga.net.id
             </text>
           </div>
         </div>
